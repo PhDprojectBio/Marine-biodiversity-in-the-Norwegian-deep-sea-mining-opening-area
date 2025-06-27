@@ -151,46 +151,46 @@ library(XML)
 
 #The GBIF keys used in this work and their citations are:
 
-#gbif_1876to1899: 0015546-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.7q3w44
+#gbif_1876to1899: 0009573-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.y97vts
 
-#gbif_1900to1909: 0015547-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.j87zrs
+#gbif_1900to1909: 0009574-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.v8dxhw
 
-#gbif_1910to1919: 0015548-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.26bb98
+#gbif_1910to1919: 0009601-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.vcgwbe
 
-#gbif_1920to1929: 0015664-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.8k5va3
+#gbif_1920to1929: 0009597-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.r9cf3k
 
-#gbif_1930to1939: 0015665-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.arz5mm
+#gbif_1930to1939: 0009683-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.uh9p4q
 
-#gbif_1940to1949: 0015666-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.x9jbcv
+#gbif_1940to1949: 0009684-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.tvpcvs
 
-#gbif_1950to1959: 0015769-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.mrbmm9
+#gbif_1950to1959: 0009701-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.t486bk
 
-#gbif_1960to1969: 0015770-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.4k6p8z                  
+#gbif_1960to1969: 0009703-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.5k2tg3                  
 
-#gbif_1970to1979: 0015771-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.c4vbxa                  
+#gbif_1970to1979: 0009733-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.jtmukp                  
 
-#gbif_1980to1989: 0015858-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.ntf4qr
+#gbif_1980to1989: 0009734-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.8vy9td
 
-#gbif_1990to1999: 0015859-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.gj2a8q
+#gbif_1990to1999: 0009596-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.9kread
 
-#gbif_2000to2009: 0015860-241007104925546
-#GBIF.org (15 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.xshx7q
+#gbif_2000to2009: 0009699-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.jafm9h
 
-#gbif_2010to2019: 0016726-241007104925546
-#GBIF.org (16 October 2024) GBIF Occurrence Download  https://doi.org/10.15468/dl.cgx8eh
+#gbif_2010to2019: 0010030-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.ttc5j2
 
-#gbif_2020to2024: 0016727-241007104925546
-#GBIF.org (16 October 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.c362rp
+#gbif_2020to2024: 0009572-250415084134356
+#GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.adhzb6
 
 #End of script.
