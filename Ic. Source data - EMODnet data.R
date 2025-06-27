@@ -55,4 +55,4 @@ layer$YCoord <- layer$decimalLatitude
 emodc <- layer[-21]
 View(emodc)
 
-##End script Ic
+##End script Ic.
