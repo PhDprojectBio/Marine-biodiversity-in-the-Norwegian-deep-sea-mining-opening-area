@@ -2,4 +2,4 @@
 
 This code has been developed and tested collaboratively with the authors of the paper ***Open-source marine biodiversity data quality in the Norwegian Sea spanning 148 years: knowledge gaps in the deep-sea mining opening area.***
 
-Electronic data source databases correspond to GBIF (Global Biodiversity Information Facility), OBIS (Ocean Biodiversity Information System) and EMODnet (European Marine Observation and Data Network). More information on methodology and data collection is available in the article.
+Electronic source databases correspond to GBIF (Global Biodiversity Information Facility), OBIS (Ocean Biodiversity Information System) and EMODnet (European Marine Observation and Data Network). More information on methodology and data collection is available in the article.
