@@ -1,4 +1,4 @@
-#IVb. Biological diversity - Calculations 
+#IVb. Biological diversity - Estimations.
 setwd("//workingdirectory") #setting up the working directory. 
 
 #Splitting data into decades
