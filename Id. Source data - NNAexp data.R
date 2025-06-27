@@ -77,4 +77,4 @@ norwegian_expedition_database$eventDate <- NA
 names(norwegian_expedition_database)
 nexpd <- norwegian_expedition_database
 
-##End script Id
+##End script Id.
