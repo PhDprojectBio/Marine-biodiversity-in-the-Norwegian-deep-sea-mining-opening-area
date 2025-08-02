@@ -6,7 +6,7 @@ library(dplyr)
 library(stringr)
 #setwd("//workingdirectory") #setting up the working directory.    
 
-# Create dataset. Start by loading Laura's environment.
+# Create dataset.
 #load("data/obisemodnetnnaexp.RData")
 
 # Names list
