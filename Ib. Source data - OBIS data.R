@@ -57,8 +57,8 @@ obisb_2000to2009 = obisb_2000to2009[c("coordinateUncertaintyInMeters", "class", 
 obisb_2010to2019 <- occurrence(geometry = "POLYGON ((38.000 85.000, -27.000 85.000, -27.000 56.000, 38.000 56.000, 38.000 85.000))", startdate = as.Date("2010-01-01"), enddate = as.Date("2019-12-31"), absence = NULL, flags = NULL)
 obisb_2010to2019 = obisb_2010to2019[c("coordinateUncertaintyInMeters", "class", "dataset_id", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "eventDate", "family", "id", "individualCount", "flags", "kingdom", "maximumDepthInMeters", "minimumDepthInMeters", "month", "scientificName", "taxonRank", "year")]
 
-#14. obis_2020to2024                     
-obisb_2020to2024 <- occurrence(geometry = "POLYGON ((38.000 85.000, -27.000 85.000, -27.000 56.000, 38.000 56.000, 38.000 85.000))", startdate = as.Date("2020-01-01"), absence = NULL, flags = NULL)
-obisb_2020to2024 = obisb_2020to2024[c("coordinateUncertaintyInMeters", "class", "dataset_id", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "eventDate", "family", "id", "individualCount", "flags", "kingdom", "maximumDepthInMeters", "minimumDepthInMeters", "month", "scientificName", "taxonRank", "year")]
+#14. obis_2020to2025                     
+obisb_2020to2025 <- occurrence(geometry = "POLYGON ((38.000 85.000, -27.000 85.000, -27.000 56.000, 38.000 56.000, 38.000 85.000))", startdate = as.Date("2020-01-01"), absence = NULL, flags = NULL)
+obisb_2020to2025 = obisb_2020to2025[c("coordinateUncertaintyInMeters", "class", "dataset_id", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "eventDate", "family", "id", "individualCount", "flags", "kingdom", "maximumDepthInMeters", "minimumDepthInMeters", "month", "scientificName", "taxonRank", "year")]
 
 ##End script Ib.
