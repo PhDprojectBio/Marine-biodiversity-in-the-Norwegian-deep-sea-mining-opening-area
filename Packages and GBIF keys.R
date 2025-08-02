@@ -190,7 +190,7 @@ library(XML)
 #gbif_2010to2019: 0010030-250415084134356
 #GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.ttc5j2
 
-#gbif_2020to2024: 0009572-250415084134356
+#gbif_2020to2025: 0009572-250415084134356
 #GBIF.org (22 April 2025) GBIF Occurrence Download  https://doi.org/10.15468/dl.adhzb6
 
 #End of script.
