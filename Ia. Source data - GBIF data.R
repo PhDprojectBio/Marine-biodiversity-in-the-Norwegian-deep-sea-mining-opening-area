@@ -150,8 +150,8 @@ gbif_2010to2019 <- occ_download(
   pred_and(pred_gte("year", 2010), pred_lte("year", 2019)),
   format = "SIMPLE_CSV")
 
-#14. 2020-2024
-gbif_2020to2024 <- occ_download(
+#14. 2020-2025
+gbif_2020to2025 <- occ_download(
   pred("hasGeospatialIssue", FALSE),
   pred("hasCoordinate", TRUE),
   pred("occurrenceStatus","PRESENT"), 
@@ -162,7 +162,7 @@ gbif_2020to2024 <- occ_download(
 
 
 #IMPORTANT NOTE:
-#always cite the doi. It can be seen calling the download object (i.e. gbif_2020to2024).
+#always cite the doi. It can be seen calling the download object (i.e. gbif_2020to2025).
 #Step B: Checking the status of the download in the server and retrieving the datasets into R. 
 #Tip: Use the quote = "" argument if needed.
 
@@ -218,12 +218,12 @@ gbifa_2000to2009 <- occ_download_get(head(gbif_2000to2009)) %>% occ_download_imp
 occ_download_wait(head(gbif_2010to2019))
 gbifa_2010to2019 <- occ_download_get(head(gbif_2010to2019)) %>% occ_download_import(header = TRUE, sep = "\t", na.strings = "NA", fill = TRUE) #,quote = "")
 
-#14. gbif_2020to2024    
-occ_download_wait(head(gbif_2020to2024))
-gbifa_2020to2024 <- occ_download_get(head(gbif_2020to2024)) %>% occ_download_import(header = TRUE, sep = "\t", na.strings = "NA", fill = TRUE) #,quote = "")
+#14. gbif_2020to2025    
+occ_download_wait(head(gbif_2020to2025))
+gbifa_2020to2024 <- occ_download_get(head(gbif_2020to2025)) %>% occ_download_import(header = TRUE, sep = "\t", na.strings = "NA", fill = TRUE) #,quote = "")
  
    
-#Step C. Select the database fields that you need to work with. For this work, these are 18 fields.      
+#Step C. Select the database fields that you need to work with.      
 
 gbifa_1876to1899 = gbifa_1876to1899[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
 gbifa_1900to1909 = gbifa_1900to1909[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
@@ -242,6 +242,6 @@ gbifa_1990to1999 = gbifa_1990to1999[c("basisOfRecord", "catalogNumber", "class",
 gbifa_2000to2009 = gbifa_2000to2009[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
 
 gbifa_2010to2019 = gbifa_2010to2019[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
-gbifa_2020to2024 = gbifa_2020to2024[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
+gbifa_2020to2025 = gbifa_2020to2025[c("basisOfRecord", "catalogNumber", "class", "collectionCode", "coordinatePrecision", "coordinateUncertaintyInMeters", "datasetKey", "dateIdentified", "day", "decimalLatitude", "decimalLongitude", "depth", "depthAccuracy", "eventDate", "family", "gbifID", "individualCount", "issue", "kingdom", "month", "scientificName", "taxonRank", "year")]
 
 ##End script Ia    
