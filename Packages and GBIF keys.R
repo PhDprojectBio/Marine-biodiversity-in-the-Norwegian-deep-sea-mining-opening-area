@@ -1,5 +1,5 @@
 #Packages and GBIF keys 
-#Thanks to all vontributors for knowledge and tools.
+#Thanks to all contributors for knowledge and tools.
 #For R packages and citations, run citation("package").
 #Install and load these packages previously to running scripts.
 #install with install.packages("package") and load with the command library.
