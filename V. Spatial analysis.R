@@ -229,7 +229,7 @@ alltseries_2010_2020_sjd <- read_delim("alltseries_2010_2020_sjd.csv",
 alltseries_2020_2024_sjs <- read_delim("alltseries_2020_2024_sjs.csv", 
                                             delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
-alltseries_2020_2024_sjd <- read_delim("alltseries_2020_2024_sjd.csv", 
+alltseries_2020_2025_sjd <- read_delim("alltseries_2020_2025_sjd.csv", 
                                             delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
 
@@ -419,7 +419,7 @@ deep_2010_2020_sjdb <- read_delim("deep_2010_2020_sjdb.csv",
 deep_2020_2024_sjdp <- read_delim("deep_2020_2024_sjdp.csv", 
                                   delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
-deep_2020_2024_sjdb <- read_delim("deep_2020_2024_sjdb.csv", 
+deep_2020_2025_sjdb <- read_delim("deep_2020_2025_sjdb.csv", 
                                   delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
 ################  
@@ -617,7 +617,7 @@ shallow_2010_2020_sjsb <- read_delim("shallow_2010_2020_sjsb.csv",
 shallow_2020_2024_sjsp <- read_delim("shallow_2020_2024_sjsp.csv", 
                                      delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
-shallow_2020_2024_sjsb <- read_delim("shallow_2020_2024_sjsb.csv", 
+shallow_2020_2025_sjsb <- read_delim("shallow_2020_2025_sjsb.csv", 
                                      delim = ",", escape_double = FALSE, trim_ws = TRUE)
 
 ################  
@@ -882,7 +882,7 @@ plotO2 <- plot_grid(
 )
 
 #adding x and y labels to the plot_grid  
-title.grob <- textGrob("1876-2024", 
+title.grob <- textGrob("1876-2025", 
                        gp=gpar(fontsize=18), hjust = 0.27) 
 
 y.grob <- textGrob("Number of grid cells", 
