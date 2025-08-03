@@ -12,7 +12,7 @@ library(stringr)
 # Names list
 all24 <- c("gbifa_1876to1899","gbifa_1900to1909","gbifa_1910to1919","gbifa_1920to1929","gbifa_1930to1939",
            "gbifa_1940to1949","gbifa_1950to1959","gbifa_1960to1969","gbifa_1970to1979", "gbifa_1980to1989", 
-           "gbifa_1990to1999","gbifa_2000to2009","gbifa_2010to2019","gbifa_2020to2024","obisb_1876to1899",
+           "gbifa_1990to1999","gbifa_2000to2009","gbifa_2010to2019","gbifa_2020to2025","obisb_1876to1899",
            "obisb_1900to1909","obisb_1910to1919","obisb_1920to1929","obisb_1930to1939","obisb_1940to1949",
            "obisb_1950to1959","obisb_1960to1969","obisb_1970to1979","obisb_1980to1989","obisb_1990to1999",
            "obisb_2000to2009","obisb_2010to2019","obisb_2020to2025","emodc","nexpd")
