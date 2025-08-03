@@ -6,4 +6,4 @@ Electronic source databases correspond to GBIF (Global Biodiversity Information 
 
 LICENSE: https://creativecommons.org/licenses/by-nc/4.0/deed.no, Attribution-NonCommercial 4.0 International.
 
-Research by NTNU. Norwegian University of Science and Technology. 
+By NTNU. Norwegian University of Science and Technology. 
