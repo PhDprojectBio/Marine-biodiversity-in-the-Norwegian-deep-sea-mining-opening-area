@@ -10,6 +10,6 @@ Electronic source datasets were retrieved from these databases. Datasets analyze
 * OBIS: OBIS (2025). Ocean Biodiversity Information System. Intergovernmental Oceanographic Commission of UNESCO. Available on https://obis.org. Retrieved in April, 2025.
 * EMODnet: Marine and environmental data were retrieved from the European Marine Observation and Data Network (EMODnet), funded by the European Union. Original ownership and intellectual property rights remain with the individual data providers and contributing organizations. The specific data products used in this study correspond to the EMODnet Biology portal.
 
-LICENSE: https://creativecommons.org/licenses/by-nc/4.0/deed.no, Attribution-NonCommercial 4.0 International.
+REPOSITORY LICENSE: https://creativecommons.org/licenses/by-nc/4.0/deed.no, Attribution-NonCommercial 4.0 International.
 
 By NTNU. Norwegian University of Science and Technology. 
