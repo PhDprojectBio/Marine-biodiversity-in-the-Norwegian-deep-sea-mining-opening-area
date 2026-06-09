@@ -4,7 +4,7 @@ This code has been developed and tested collaboratively with the authors of the 
 
 Electronic source databases correspond to GBIF (Global Biodiversity Information Facility), OBIS (Ocean Biodiversity Information System) and EMODnet (European Marine Observation and Data Network). More information on methodology and data collection is available in the article.
 
-Source datasets were retrieved from these databases. Datasets analyzed are property of the respective data publishers and contributors. The specific download generated for this data mining analysis is available in the: 
+Electronic source datasets were retrieved from these databases. Datasets analyzed are property of the respective data publishers and contributors. The specific download generated for this data mining analysis is available in the: 
 
 * GBIF: Packages and GBIF keys section.
 * OBIS: OBIS (2025). Ocean Biodiversity Information System. Intergovernmental Oceanographic Commission of UNESCO. Available on https://obis.org. Retrieved in April, 2025.
